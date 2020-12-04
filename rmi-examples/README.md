@@ -6,7 +6,7 @@ This example explains how a thread from a JVM can invoke a method from an object
 This implementation is written to used for 'localhost' only.
 
 ## Quick-start
-- Initialize RMI Registry and attached it to a specific i**port**:
+- Initialize RMI Registry and attached it to a specific **port**:
 
 ```
 $ rmiregistry <port>
