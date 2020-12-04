@@ -18,7 +18,7 @@ public class GenerateRandomNumberServer {
 			// Wait for the client request.
 			Socket clientSocket = serverSocket.accept();
 			
-			// Get the client output stream
+			// Get the client output stream printer,
 			// then use it to print (to the client side).
 			PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
 
