@@ -2,7 +2,7 @@
 This repository contains examples for Client-Server Model:
 - Basic sockets communication.
 - Serialization/Deserialization (using in byte stream).
-- Remote Method Invocation (RMI). (on working..)
+- Remote Method Invocation (RMI).
 - Multicast. (on working..)
 
 ## Resources
