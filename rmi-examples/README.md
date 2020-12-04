@@ -24,7 +24,7 @@ $ javac *.java
 $ java DogCenter
 ```
 
-- Start the server, the port needs to match with the port we used for RMI Registry:
+- Start the client, the port needs to match with the port we used for RMI Registry:
 
 ```
 $ java Customer
