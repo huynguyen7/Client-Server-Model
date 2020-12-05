@@ -1,4 +1,4 @@
-# TRANSFERING OBJECTS THROUGH SOCKETS
+# MULTICAST ROUTING SCHEME
 This example explains how multicast routing scheme works:
 - The _'server'_ will send the message (through the input string) to all the _'clients'_ who joined the group.
 
