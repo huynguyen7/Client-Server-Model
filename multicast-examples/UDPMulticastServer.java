@@ -63,8 +63,4 @@ public class UDPMulticastServer {
 		DatagramPacket packet = new DatagramPacket(msgInBytes, msgInBytes.length, group, port);
 		socket.send(packet);
 	}
-	
-	private void setUp() {
-		
-	}
 }
